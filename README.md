@@ -5,7 +5,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About
 
 ReverseProxy-nginx-ssl is just a simple example of nginx reverse proxy config for ssl.
 
@@ -16,13 +16,10 @@ It contains:
 You can find more details in the Nginx official documentation. (http://nginx.org/en/docs/)
 
 
-
-<!-- GETTING STARTED -->
 <!-- GETTING STARTED -->
 ## Getting Started
-* Replace the existing nginx config file first.
-(The default config file location is below.)
-* Change all 'YOUR_DOMAIN_HERE' to your domain.
+* Replace the existing nginx config file. (The default config file location is below.)
+* Change all `YOUR_DOMAIN_HERE` to your domain.
 * Change SSL certs location if necessary.
 
 
