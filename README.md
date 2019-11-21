@@ -46,6 +46,11 @@ Windows (uncompressed file):
 /conf/
 ```
 
+<!-- LICENSE -->
+## License
+
+Distributed under the Unlicense License. See `LICENSE` for more information.
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
